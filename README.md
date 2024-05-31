@@ -21,10 +21,10 @@ To analyze survey data from 10,000 participants and extract meaningful insights.
 ## Research Methodology
 Secondary Research and Planning: Google and Gemini AI
 
-# Insights
+# Insights Provided:
 - Demographic
 - Consumer
-- Competitor Analysis,
+- Competitor Analysis
 - Marketing channel and Brand Awareness
 - Brand Penetration
 - Purchase Behavior
